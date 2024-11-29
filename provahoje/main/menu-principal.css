@@ -1,0 +1,64 @@
+#brand{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #2b2c2c;
+    height: 100px;
+    align-items: center;
+}
+
+#footer{
+    background-color: #2b2c2c;
+    width: 100%;
+    height: 50px;
+    font-family: Helvetica;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around
+}
+
+.menu-item{
+    font-family: Helvetica;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.menu-outros{
+    font-family: Helvetica;
+    font-size: 1rem;
+    font-weight: normal;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.divisao{
+    font-family: Helvetica;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2b2c2c;
+    text-decoration: none;
+}
+
+.textohome{
+    font-family: Helvetica;
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+
+.entradas{
+    font-family: Helvetica;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: space-around;
+    font-weight: normal;
+    background-color: #ffffff;
+    text-decoration: none;
+    width: 30%;
+}
